@@ -12,5 +12,6 @@
   "scripts": [
     "jquery.infinitescroll.js"
   ],
-  "styles": []
+  "styles": [],
+  "main":  "jquery.infinitescroll.js"
 }
