@@ -2,7 +2,7 @@
   "name": "infinite-scroll",
   "repo": "lauramelos/infinite-scroll",
   "description": "Infinite-scroll component wrapper",
-  "version": "2.0b2.120519"
+  "version": "2.0b2.120519",
   "keywords": [],
   "dependencies": {
      "component/jquery": "1.8.2"
