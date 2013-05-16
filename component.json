@@ -10,7 +10,8 @@
   "development": {},
   "license": "MIT",
   "scripts": [
-    "jquery.infinitescroll.js"
+    "jquery.infinitescroll.js",
+    "behaviors/manual-trigger.js"
   ],
   "main": "jquery.infinitescroll.js"
 }
